@@ -1,0 +1,4 @@
+export http_proxy="http://194.65.37.122:80"
+export https_proxy="http://194.65.37.122:80"
+export ftp_proxy="http://194.65.37.122:80"
+export no_proxy="localhost,127.0.0.1,.ptin.corppt.com,10.112.97.170,10.112.85.38,10.112.85.137,10.112.85.165,10.113.134.33,ept.telecom.pt,http://asmill01,.twitch.tv,.twitchcdn.net,.youtube.com,.spotify.com,.play.spotify.com,.hd-torrents.org,.bet.pt,.github.com .docker.io"
